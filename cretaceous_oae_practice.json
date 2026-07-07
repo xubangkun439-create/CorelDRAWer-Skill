@@ -1,0 +1,18 @@
+{
+  "title": "Cretaceous Oceanic Anoxic Event 2, East Asia",
+  "location": "Tibet, China",
+  "curves": [
+    {"name": "δ¹³C (‰)", "color": "#2980b9", "unit": "‰", "data": [
+      [0, 1], [40, 2], [80, 3.5], [120, 5], [160, 4.5], [200, 3], [240, 2.5], [280, 2], [320, 2.5], [350, 3]
+    ]}
+  ],
+  "layers": [
+    {"system":"Cenomanian","series":"Upper","formation":"Qingfeng Fm","symbol":"K₂q","thick":40,"descr":"Grey thin-bedded marl, planktonic foraminifera","c":0,"m":0,"y":5,"k":20,"pattern":"lime","grain":2,"fossils":["foraminifera"],"age_ma":95},
+    {"system":"Cenomanian","series":"Upper","formation":"Qingfeng Fm","symbol":"K₂q","thick":40,"descr":"Dark grey laminated shale, organic-rich","c":0,"m":5,"y":10,"k":45,"pattern":"shale","grain":1,"age_ma":94.5},
+    {"system":"Turonian","series":"Lower","formation":"OAE2 interval","symbol":"K₂t","thick":40,"descr":"Black carbonaceous shale, OAE2 peak, high TOC","c":0,"m":0,"y":5,"k":75,"pattern":"carbShale","grain":1,"fossils":["foraminifera"],"contact":"conformity","age_ma":94.0},
+    {"system":"Turonian","series":"Lower","formation":"OAE2 interval","symbol":"K₂t","thick":40,"descr":"Dark grey laminated marl, decreasing TOC","c":0,"m":0,"y":5,"k":35,"pattern":"marl","grain":2,"age_ma":93.7},
+    {"system":"Turonian","series":"Middle","formation":"Liangti Fm","symbol":"K₂l","thick":80,"descr":"Grey thick-bedded limestone, rudist fragments","c":0,"m":0,"y":0,"k":20,"pattern":"lime","grain":3,"fossils":["bivalve"],"age_ma":93},
+    {"system":"Turonian","series":"Middle","formation":"Liangti Fm","symbol":"K₂l","thick":70,"descr":"Light grey dolomitic limestone, chert bands","c":0,"m":0,"y":5,"k":15,"pattern":"dolo","grain":2,"age_ma":92.5},
+    {"system":"Turonian","series":"Upper","formation":"Jiubao Fm","symbol":"K₂j","thick":40,"descr":"Grey-green silty shale, thin sandstone","c":5,"m":0,"y":20,"k":20,"pattern":"silt","grain":3,"age_ma":92}
+  ]
+}

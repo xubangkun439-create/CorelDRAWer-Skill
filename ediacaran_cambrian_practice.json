@@ -1,0 +1,21 @@
+{
+  "title": "Ediacaran-Cambrian transition, Yangtze Gorges area",
+  "location": "Hubei, South China",
+  "curves": [
+    {"name": "δ¹³C (‰)", "color": "#2980b9", "unit": "‰", "data": [
+      [0, -5], [95, -3], [180, 2], [350, 4], [445, 3], [525, 5], [605, 2], [685, 1]
+    ]},
+    {"name": "δ¹³Ccarb", "color": "#27ae60", "unit": "‰", "data": [
+      [0, -8], [95, -6], [180, 0], [350, 5], [445, 4], [525, 6], [605, 3], [685, 2]
+    ]}
+  ],
+  "layers": [
+    {"erathem":"Neoproterozoic","system":"Nanhua","series":"Lower","formation":"Liantuo Fm","symbol":"Nh₁l","thick":95,"descr":"Purplish-red medium-bedded sandstone, basal conglomerate","c":0,"m":40,"y":30,"k":10,"pattern":"sand","grain":4,"contact":"unconformity","age_ma":780},
+    {"erathem":"Neoproterozoic","system":"Sinian","series":"Lower","formation":"Doushantuo Fm","symbol":"Z₁d","thick":180,"descr":"Black thin-bedded dolomitic mudstone interbedded with carbonaceous shale","c":5,"m":0,"y":10,"k":30,"pattern":"dolo","grain":2,"fossils":["algae"],"age_ma":635},
+    {"erathem":"Neoproterozoic","system":"Sinian","series":"Upper","formation":"Dengying Fm","symbol":"Z₂dy","thick":350,"descr":"Thick-bedded dolomite with chert nodules, stromatolitic","c":0,"m":0,"y":5,"k":10,"pattern":"dolo","grain":2,"fossils":["stromatolite"],"age_ma":551},
+    {"erathem":"Paleozoic","system":"Cambrian","series":"Terreneuvian","formation":"Yanjiahe Fm","symbol":"∈₁y","thick":95,"descr":"Black carbonaceous shale, phosphorite nodules, small shelly fossils","c":5,"m":10,"y":15,"k":50,"pattern":"carbShale","grain":1,"fossils":["trilobite"],"contact":"conformity","age_ma":541},
+    {"erathem":"Paleozoic","system":"Cambrian","series":"Series 2","formation":"Shuijingtuo Fm","symbol":"∈₁s","thick":150,"descr":"Black shale with thin siliceous beds, abundant trilobites","c":0,"m":5,"y":10,"k":65,"pattern":"shale","grain":1,"fossils":["trilobite","brachiopod"],"structures":["ripple"],"age_ma":521},
+    {"erathem":"Paleozoic","system":"Cambrian","series":"Series 2","formation":"Shipai Fm","symbol":"∈₁sp","thick":120,"descr":"Yellow-green silty shale, argillaceous siltstone with Cruziana","c":5,"m":0,"y":30,"k":15,"pattern":"silt","grain":2,"fossils":["trilobite","brachiopod"],"structures":["cross_bed"],"age_ma":515},
+    {"erathem":"Paleozoic","system":"Cambrian","series":"Miaolingian","formation":"Tianheban Fm","symbol":"∈₂t","thick":80,"descr":"Dark grey oolitic limestone, bioclastic limestone","c":0,"m":0,"y":0,"k":35,"pattern":"lime","grain":3,"fossils":["trilobite","cephalopod"],"structures":["ooid"],"age_ma":509}
+  ]
+}
