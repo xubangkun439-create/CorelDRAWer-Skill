@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 321 333" width="321mm" height="333mm" version="1.1">
+  <defs>
+    <clipPath id="clip_0">
+      <rect x="84.3" y="240.72222222222223" width="37.2" height="35.27777777777778"/>
+    </clipPath>
+    <clipPath id="clip_1">
+      <rect x="84.3" y="212.5" width="37.2" height="28.222222222222225"/>
+    </clipPath>
+    <clipPath id="clip_2">
+      <rect x="84.3" y="191.33333333333334" width="37.2" height="21.166666666666668"/>
+    </clipPath>
+    <clipPath id="clip_3">
+      <rect x="84.3" y="163.11111111111111" width="37.2" height="28.222222222222225"/>
+    </clipPath>
+    <clipPath id="clip_4">
+      <rect x="84.3" y="141.94444444444446" width="37.2" height="21.166666666666668"/>
+    </clipPath>
+    <clipPath id="clip_5">
+      <rect x="84.3" y="106.66666666666669" width="37.2" height="35.27777777777778"/>
+    </clipPath>
+    <clipPath id="clip_6">
+      <rect x="84.3" y="64.33333333333334" width="37.2" height="42.333333333333336"/>
+    </clipPath>
+    <clipPath id="lgclip_0">
+      <rect x="281" y="230.5" width="6" height="6"/>
+    </clipPath>
+    <clipPath id="lgclip_1">
+      <rect x="281" y="237.5" width="6" height="6"/>
+    </clipPath>
+    <clipPath id="lgclip_2">
+      <rect x="281" y="244.5" width="6" height="6"/>
+    </clipPath>
+    <clipPath id="lgclip_3">
+      <rect x="281" y="251.5" width="6" height="6"/>
+    </clipPath>
+    <clipPath id="lgclip_4">
+      <rect x="281" y="258.5" width="6" height="6"/>
+    </clipPath>
+    <clipPath id="lgclip_5">
+      <rect x="281" y="265.5" width="6" height="6"/>
+    </clipPath>
+  </defs>
+  <g id="cdr-background" inkscape:groupmode="layer" inkscape:label="Background" data-cdr-layer="background">
+    <rect x="0" y="0" width="321" height="333" fill="#fff" stroke="none" stroke-width="0"/>
+  </g>
+  <g id="cdr-title" inkscape:groupmode="layer" inkscape:label="Title" data-cdr-layer="title">
+    <text x="140.5" y="302" font-family="Arial, Helvetica, sans-serif" font-size="4.5" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="title">Toarcian Oceanic Anoxic Event (T-OAE), Yorkshire</text>
+    <text x="140.5" y="296" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="subtitle">UK (ref. s43247-025-02510-y, s41561-022-01115-w)</text>
+  </g>
+  <g id="cdr-header" inkscape:groupmode="layer" inkscape:label="Header" data-cdr-layer="header">
+    <rect x="8" y="276" width="265" height="14" fill="#fafaf8" stroke="#333" stroke-width="0.15" data-cdr-type="header-bg"/>
+    <text x="14.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">界</text>
+    <text x="27.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">系</text>
+    <text x="40.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">统</text>
+    <text x="56.0" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">组</text>
+    <text x="71.0" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">代号</text>
+    <text x="80.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">化石</text>
+    <text x="104.0" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">岩 性 柱</text>
+    <text x="131.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">粒度</text>
+    <text x="142.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">构造</text>
+    <text x="151.0" y="279.5" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">厚度</text>
+    <text x="151.0" y="286.5" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">(m)</text>
+    <text x="188.5" y="283.0" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="header-text">岩 性 描 述</text>
+    <line x1="21" y1="22" x2="21" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="34" y1="22" x2="34" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="47" y1="22" x2="47" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="65" y1="22" x2="65" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="77" y1="22" x2="77" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="84" y1="22" x2="84" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="124" y1="22" x2="124" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="139" y1="22" x2="139" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="146" y1="22" x2="146" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="156" y1="22" x2="156" y2="290" stroke="#e8e8e8" stroke-width="0.06" data-cdr-type="col-divider"/>
+    <line x1="8" y1="276" x2="273" y2="276" stroke="#333" stroke-width="0.15" data-cdr-type="header-line"/>
+  </g>
+  <g id="cdr-body" inkscape:groupmode="layer" inkscape:label="Column Body" data-cdr-layer="body">
+    <line x1="84" y1="276.0" x2="122" y2="276.0" stroke="#aaa" stroke-width="0.15" data-cdr-type="scale-tick"/>
+    <text x="121" y="274.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="end" fill="#999" data-cdr-type="scale-label">0</text>
+    <line x1="84" y1="205.44444444444446" x2="122" y2="205.44444444444446" stroke="#aaa" stroke-width="0.15" data-cdr-type="scale-tick"/>
+    <line x1="84" y1="134.88888888888889" x2="122" y2="134.88888888888889" stroke="#aaa" stroke-width="0.15" data-cdr-type="scale-tick"/>
+    <text x="121" y="133.38888888888889" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="end" fill="#999" data-cdr-type="scale-label">100</text>
+    <line x1="84" y1="64.33333333333331" x2="122" y2="64.33333333333331" stroke="#aaa" stroke-width="0.15" data-cdr-type="scale-tick"/>
+    <line x1="84" y1="22" x2="84" y2="276" stroke="#ccc" stroke-width="0.1" data-cdr-type="scale-ruler"/>
+    <g id="layer_0" data-cdr-type="layer" data-cdr-name="Whitby Mudstone" data-cdr-pattern="mud" data-cdr-thickness="25" data-cdr-color="#ccccc1" data-cdr-index="0">
+      <rect x="84.3" y="240.72222222222223" width="37.2" height="35.27777777777778" fill="#ccccc1" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_0)">
+        <line x1="84.8" y1="241.29822222222222" x2="121.0" y2="241.29822222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="243.2182222222222" x2="121.0" y2="243.2182222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="245.1382222222222" x2="121.0" y2="245.1382222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="247.05822222222218" x2="121.0" y2="247.05822222222218" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="248.97822222222217" x2="121.0" y2="248.97822222222217" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="250.89822222222216" x2="121.0" y2="250.89822222222216" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="252.81822222222215" x2="121.0" y2="252.81822222222215" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="254.73822222222213" x2="121.0" y2="254.73822222222213" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="256.65822222222215" x2="121.0" y2="256.65822222222215" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="258.57822222222217" x2="121.0" y2="258.57822222222217" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="260.4982222222222" x2="121.0" y2="260.4982222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="262.4182222222222" x2="121.0" y2="262.4182222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="264.3382222222222" x2="121.0" y2="264.3382222222222" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="266.25822222222223" x2="121.0" y2="266.25822222222223" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="268.17822222222225" x2="121.0" y2="268.17822222222225" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="270.09822222222226" x2="121.0" y2="270.09822222222226" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="272.0182222222223" x2="121.0" y2="272.0182222222223" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="273.9382222222223" x2="121.0" y2="273.9382222222223" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="275.8582222222223" x2="121.0" y2="275.8582222222223" stroke="#555" stroke-width="0.22"/>
+      </g>
+      <text x="48" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Whitby Mudstone</text>
+      <text x="66" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁w</text>
+      <text x="80.5" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="fossil-icon" data-cdr-fossil="ammonite">🐚</text>
+      <polygon points="125.5,240.72222222222223 129.5,240.72222222222223 129.5,276 125.5,276" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粉砂</text>
+      <text x="147" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">25.0</text>
+      <text x="157" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Grey silty mudstone, early Toarcian</text>
+      <text x="123.0" y="258.3611111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">184</text>
+    </g>
+    <line x1="8" y1="276" x2="273" y2="276" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_1" data-cdr-type="layer" data-cdr-name="Whitby Mudstone" data-cdr-pattern="shale" data-cdr-thickness="20" data-cdr-color="#999991" data-cdr-index="1">
+      <rect x="84.3" y="212.5" width="37.2" height="28.222222222222225" fill="#999991" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_1)">
+        <line x1="84.6" y1="213.172" x2="121.2" y2="213.172" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="212.5" x2="86.092" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="212.5" x2="89.452" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="212.5" x2="92.812" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="212.5" x2="96.172" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="212.5" x2="99.532" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="212.5" x2="102.892" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="212.5" x2="106.252" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="212.5" x2="109.612" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="212.5" x2="112.972" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="212.5" x2="116.332" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="212.5" x2="119.692" y2="213.844" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="215.412" x2="121.2" y2="215.412" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="214.74" x2="86.092" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="214.74" x2="89.452" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="214.74" x2="92.812" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="214.74" x2="96.172" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="214.74" x2="99.532" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="214.74" x2="102.892" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="214.74" x2="106.252" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="214.74" x2="109.612" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="214.74" x2="112.972" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="214.74" x2="116.332" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="214.74" x2="119.692" y2="216.084" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="217.65200000000002" x2="121.2" y2="217.65200000000002" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="219.89200000000002" x2="121.2" y2="219.89200000000002" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="219.22000000000003" x2="86.092" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="219.22000000000003" x2="89.452" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="219.22000000000003" x2="92.812" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="219.22000000000003" x2="96.172" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="219.22000000000003" x2="99.532" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="219.22000000000003" x2="102.892" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="219.22000000000003" x2="106.252" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="219.22000000000003" x2="109.612" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="219.22000000000003" x2="112.972" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="219.22000000000003" x2="116.332" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="219.22000000000003" x2="119.692" y2="220.56400000000002" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="222.13200000000003" x2="121.2" y2="222.13200000000003" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="221.46000000000004" x2="86.092" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="221.46000000000004" x2="89.452" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="221.46000000000004" x2="92.812" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="221.46000000000004" x2="96.172" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="221.46000000000004" x2="99.532" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="221.46000000000004" x2="102.892" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="221.46000000000004" x2="106.252" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="221.46000000000004" x2="109.612" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="221.46000000000004" x2="112.972" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="221.46000000000004" x2="116.332" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="221.46000000000004" x2="119.692" y2="222.80400000000003" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="224.37200000000004" x2="121.2" y2="224.37200000000004" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="226.61200000000005" x2="121.2" y2="226.61200000000005" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="225.94000000000005" x2="86.092" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="225.94000000000005" x2="89.452" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="225.94000000000005" x2="92.812" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="225.94000000000005" x2="96.172" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="225.94000000000005" x2="99.532" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="225.94000000000005" x2="102.892" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="225.94000000000005" x2="106.252" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="225.94000000000005" x2="109.612" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="225.94000000000005" x2="112.972" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="225.94000000000005" x2="116.332" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="225.94000000000005" x2="119.692" y2="227.28400000000005" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="228.85200000000006" x2="121.2" y2="228.85200000000006" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="228.18000000000006" x2="86.092" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="228.18000000000006" x2="89.452" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="228.18000000000006" x2="92.812" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="228.18000000000006" x2="96.172" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="228.18000000000006" x2="99.532" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="228.18000000000006" x2="102.892" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="228.18000000000006" x2="106.252" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="228.18000000000006" x2="109.612" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="228.18000000000006" x2="112.972" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="228.18000000000006" x2="116.332" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="228.18000000000006" x2="119.692" y2="229.52400000000006" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="231.09200000000007" x2="121.2" y2="231.09200000000007" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="233.33200000000008" x2="121.2" y2="233.33200000000008" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="232.66000000000008" x2="86.092" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="232.66000000000008" x2="89.452" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="232.66000000000008" x2="92.812" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="232.66000000000008" x2="96.172" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="232.66000000000008" x2="99.532" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="232.66000000000008" x2="102.892" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="232.66000000000008" x2="106.252" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="232.66000000000008" x2="109.612" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="232.66000000000008" x2="112.972" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="232.66000000000008" x2="116.332" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="232.66000000000008" x2="119.692" y2="234.00400000000008" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="235.5720000000001" x2="121.2" y2="235.5720000000001" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="234.9000000000001" x2="86.092" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="234.9000000000001" x2="89.452" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="234.9000000000001" x2="92.812" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="234.9000000000001" x2="96.172" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="234.9000000000001" x2="99.532" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="234.9000000000001" x2="102.892" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="234.9000000000001" x2="106.252" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="234.9000000000001" x2="109.612" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="234.9000000000001" x2="112.972" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="234.9000000000001" x2="116.332" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="234.9000000000001" x2="119.692" y2="236.24400000000009" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="237.8120000000001" x2="121.2" y2="237.8120000000001" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="240.0520000000001" x2="121.2" y2="240.0520000000001" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="239.3800000000001" x2="86.092" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="239.3800000000001" x2="89.452" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="239.3800000000001" x2="92.812" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="239.3800000000001" x2="96.172" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="239.3800000000001" x2="99.532" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="239.3800000000001" x2="102.892" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="239.3800000000001" x2="106.252" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="239.3800000000001" x2="109.612" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="239.3800000000001" x2="112.972" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="239.3800000000001" x2="116.332" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="239.3800000000001" x2="119.692" y2="240.7240000000001" stroke="#999" stroke-width="0.15"/>
+      </g>
+      <text x="48" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Whitby Mudstone</text>
+      <text x="66" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁w</text>
+      <polygon points="125.5,212.5 127.5,212.5 127.5,240.72222222222223 125.5,240.72222222222223" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粘土</text>
+      <text x="147" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">20.0</text>
+      <text x="157" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Dark grey laminated shale, T-OAE precursor</text>
+      <text x="123.0" y="226.61111111111111" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">183.5</text>
+    </g>
+    <line x1="8" y1="240.72222222222223" x2="273" y2="240.72222222222223" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_2" data-cdr-type="layer" data-cdr-name="Jet Rock" data-cdr-pattern="carbShale" data-cdr-thickness="15" data-cdr-color="#323230" data-cdr-index="2">
+      <rect x="84.3" y="191.33333333333334" width="37.2" height="21.166666666666668" fill="#323230" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_2)">
+        <line x1="84.6" y1="192.00533333333334" x2="121.2" y2="192.00533333333334" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="194.24533333333335" x2="121.2" y2="194.24533333333335" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="196.48533333333336" x2="121.2" y2="196.48533333333336" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="198.72533333333337" x2="121.2" y2="198.72533333333337" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="200.96533333333338" x2="121.2" y2="200.96533333333338" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="203.20533333333339" x2="121.2" y2="203.20533333333339" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="205.4453333333334" x2="121.2" y2="205.4453333333334" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="207.6853333333334" x2="121.2" y2="207.6853333333334" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="209.9253333333334" x2="121.2" y2="209.9253333333334" stroke="#eee" stroke-width="0.18"/>
+        <line x1="84.6" y1="212.16533333333342" x2="121.2" y2="212.16533333333342" stroke="#eee" stroke-width="0.18"/>
+      </g>
+      <text x="48" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Jet Rock</text>
+      <text x="66" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁j</text>
+      <text x="80.5" y="200.16666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="fossil-icon" data-cdr-fossil="ammonite">🐚</text>
+      <text x="80.5" y="203.66666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="fossil-icon" data-cdr-fossil="bivalve">🦪</text>
+      <polygon points="125.5,191.33333333333334 127.5,191.33333333333334 127.5,212.5 125.5,212.5" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粘土</text>
+      <text x="147" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">15.0</text>
+      <text x="157" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Black bituminous shale, T-OAE peak, high TOC</text>
+      <text x="123.0" y="201.91666666666669" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">183</text>
+    </g>
+    <line x1="8" y1="212.5" x2="273" y2="212.5" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_3" data-cdr-type="layer" data-cdr-name="Jet Rock" data-cdr-pattern="shale" data-cdr-thickness="20" data-cdr-color="#7f7f79" data-cdr-index="3">
+      <rect x="84.3" y="163.11111111111111" width="37.2" height="28.222222222222225" fill="#7f7f79" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_3)">
+        <line x1="84.6" y1="163.7831111111111" x2="121.2" y2="163.7831111111111" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="163.11111111111111" x2="86.092" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="163.11111111111111" x2="89.452" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="163.11111111111111" x2="92.812" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="163.11111111111111" x2="96.172" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="163.11111111111111" x2="99.532" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="163.11111111111111" x2="102.892" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="163.11111111111111" x2="106.252" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="163.11111111111111" x2="109.612" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="163.11111111111111" x2="112.972" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="163.11111111111111" x2="116.332" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="163.11111111111111" x2="119.692" y2="164.4551111111111" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="166.02311111111112" x2="121.2" y2="166.02311111111112" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="165.35111111111112" x2="86.092" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="165.35111111111112" x2="89.452" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="165.35111111111112" x2="92.812" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="165.35111111111112" x2="96.172" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="165.35111111111112" x2="99.532" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="165.35111111111112" x2="102.892" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="165.35111111111112" x2="106.252" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="165.35111111111112" x2="109.612" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="165.35111111111112" x2="112.972" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="165.35111111111112" x2="116.332" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="165.35111111111112" x2="119.692" y2="166.69511111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="168.26311111111113" x2="121.2" y2="168.26311111111113" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="170.50311111111114" x2="121.2" y2="170.50311111111114" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="169.83111111111114" x2="86.092" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="169.83111111111114" x2="89.452" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="169.83111111111114" x2="92.812" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="169.83111111111114" x2="96.172" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="169.83111111111114" x2="99.532" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="169.83111111111114" x2="102.892" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="169.83111111111114" x2="106.252" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="169.83111111111114" x2="109.612" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="169.83111111111114" x2="112.972" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="169.83111111111114" x2="116.332" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="169.83111111111114" x2="119.692" y2="171.17511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="172.74311111111115" x2="121.2" y2="172.74311111111115" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="172.07111111111115" x2="86.092" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="172.07111111111115" x2="89.452" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="172.07111111111115" x2="92.812" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="172.07111111111115" x2="96.172" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="172.07111111111115" x2="99.532" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="172.07111111111115" x2="102.892" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="172.07111111111115" x2="106.252" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="172.07111111111115" x2="109.612" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="172.07111111111115" x2="112.972" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="172.07111111111115" x2="116.332" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="172.07111111111115" x2="119.692" y2="173.41511111111114" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="174.98311111111116" x2="121.2" y2="174.98311111111116" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="177.22311111111117" x2="121.2" y2="177.22311111111117" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="176.55111111111117" x2="86.092" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="176.55111111111117" x2="89.452" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="176.55111111111117" x2="92.812" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="176.55111111111117" x2="96.172" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="176.55111111111117" x2="99.532" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="176.55111111111117" x2="102.892" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="176.55111111111117" x2="106.252" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="176.55111111111117" x2="109.612" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="176.55111111111117" x2="112.972" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="176.55111111111117" x2="116.332" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="176.55111111111117" x2="119.692" y2="177.89511111111116" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="179.46311111111117" x2="121.2" y2="179.46311111111117" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="178.79111111111118" x2="86.092" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="178.79111111111118" x2="89.452" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="178.79111111111118" x2="92.812" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="178.79111111111118" x2="96.172" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="178.79111111111118" x2="99.532" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="178.79111111111118" x2="102.892" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="178.79111111111118" x2="106.252" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="178.79111111111118" x2="109.612" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="178.79111111111118" x2="112.972" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="178.79111111111118" x2="116.332" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="178.79111111111118" x2="119.692" y2="180.13511111111117" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="181.70311111111118" x2="121.2" y2="181.70311111111118" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="183.9431111111112" x2="121.2" y2="183.9431111111112" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="183.2711111111112" x2="86.092" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="183.2711111111112" x2="89.452" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="183.2711111111112" x2="92.812" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="183.2711111111112" x2="96.172" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="183.2711111111112" x2="99.532" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="183.2711111111112" x2="102.892" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="183.2711111111112" x2="106.252" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="183.2711111111112" x2="109.612" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="183.2711111111112" x2="112.972" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="183.2711111111112" x2="116.332" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="183.2711111111112" x2="119.692" y2="184.6151111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="186.1831111111112" x2="121.2" y2="186.1831111111112" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="185.5111111111112" x2="86.092" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="185.5111111111112" x2="89.452" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="185.5111111111112" x2="92.812" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="185.5111111111112" x2="96.172" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="185.5111111111112" x2="99.532" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="185.5111111111112" x2="102.892" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="185.5111111111112" x2="106.252" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="185.5111111111112" x2="109.612" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="185.5111111111112" x2="112.972" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="185.5111111111112" x2="116.332" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="185.5111111111112" x2="119.692" y2="186.8551111111112" stroke="#999" stroke-width="0.15"/>
+        <line x1="84.6" y1="188.4231111111112" x2="121.2" y2="188.4231111111112" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.6" y1="190.66311111111122" x2="121.2" y2="190.66311111111122" stroke="#555" stroke-width="0.22"/>
+        <line x1="86.092" y1="189.99111111111122" x2="86.092" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="89.452" y1="189.99111111111122" x2="89.452" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="92.812" y1="189.99111111111122" x2="92.812" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="96.172" y1="189.99111111111122" x2="96.172" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="99.532" y1="189.99111111111122" x2="99.532" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="102.892" y1="189.99111111111122" x2="102.892" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="106.252" y1="189.99111111111122" x2="106.252" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="109.612" y1="189.99111111111122" x2="109.612" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="112.972" y1="189.99111111111122" x2="112.972" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="116.332" y1="189.99111111111122" x2="116.332" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+        <line x1="119.692" y1="189.99111111111122" x2="119.692" y2="191.33511111111122" stroke="#999" stroke-width="0.15"/>
+      </g>
+      <text x="48" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Jet Rock</text>
+      <text x="66" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁j</text>
+      <text x="80.5" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="fossil-icon" data-cdr-fossil="fish">🐟</text>
+      <polygon points="125.5,163.11111111111111 127.5,163.11111111111111 127.5,191.33333333333334 125.5,191.33333333333334" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粘土</text>
+      <text x="147" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">20.0</text>
+      <text x="157" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Dark grey laminated mudstone, fish scales</text>
+      <text x="123.0" y="177.22222222222223" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">182.8</text>
+    </g>
+    <line x1="8" y1="191.33333333333334" x2="273" y2="191.33333333333334" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_4" data-cdr-type="layer" data-cdr-name="Blea Wyke Sst" data-cdr-pattern="sand" data-cdr-thickness="15" data-cdr-color="#e5dab7" data-cdr-index="4">
+      <rect x="84.3" y="141.94444444444446" width="37.2" height="21.166666666666668" fill="#e5dab7" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_4)">
+        <circle cx="85.42" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="85.42" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="87.66" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="89.89999999999999" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="92.13999999999999" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="94.37999999999998" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="96.61999999999998" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="98.85999999999997" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="101.09999999999997" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="103.33999999999996" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="105.57999999999996" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="107.81999999999995" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="110.05999999999995" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="112.29999999999994" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="114.53999999999994" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="116.77999999999993" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="119.01999999999992" cy="160.98444444444453" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="143.06444444444446" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="145.30444444444447" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="147.54444444444448" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="149.7844444444445" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="152.0244444444445" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="154.2644444444445" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="156.50444444444452" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="158.74444444444453" r="0.35" fill="#555"/>
+        <circle cx="121.25999999999992" cy="160.98444444444453" r="0.35" fill="#555"/>
+      </g>
+      <text x="48" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Blea Wyke Sst</text>
+      <text x="66" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁b</text>
+      <polygon points="125.5,141.94444444444446 131.5,141.94444444444446 131.5,163.11111111111111 125.5,163.11111111111111" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">细砂</text>
+      <text x="142.5" y="151.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="3.5" font-weight="normal" text-anchor="middle" fill="#c0392b" data-cdr-type="structure-icon" data-cdr-structure="ripple">≈</text>
+      <text x="147" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">15.0</text>
+      <text x="157" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Fine-grained sandstone, wave ripples</text>
+      <text x="123.0" y="152.52777777777777" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">182.5</text>
+    </g>
+    <line x1="8" y1="163.11111111111111" x2="273" y2="163.11111111111111" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_5" data-cdr-type="layer" data-cdr-name="Blea Wyke Sst" data-cdr-pattern="mud" data-cdr-thickness="25" data-cdr-color="#c1ccad" data-cdr-index="5">
+      <rect x="84.3" y="106.66666666666669" width="37.2" height="35.27777777777778" fill="#c1ccad" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_5)">
+        <line x1="84.8" y1="107.24266666666668" x2="121.0" y2="107.24266666666668" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="109.16266666666668" x2="121.0" y2="109.16266666666668" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="111.08266666666668" x2="121.0" y2="111.08266666666668" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="113.00266666666668" x2="121.0" y2="113.00266666666668" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="114.92266666666669" x2="121.0" y2="114.92266666666669" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="116.84266666666669" x2="121.0" y2="116.84266666666669" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="118.76266666666669" x2="121.0" y2="118.76266666666669" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="120.68266666666669" x2="121.0" y2="120.68266666666669" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="122.60266666666669" x2="121.0" y2="122.60266666666669" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="124.5226666666667" x2="121.0" y2="124.5226666666667" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="126.4426666666667" x2="121.0" y2="126.4426666666667" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="128.36266666666668" x2="121.0" y2="128.36266666666668" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="130.28266666666667" x2="121.0" y2="130.28266666666667" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="132.20266666666666" x2="121.0" y2="132.20266666666666" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="134.12266666666665" x2="121.0" y2="134.12266666666665" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="136.04266666666663" x2="121.0" y2="136.04266666666663" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="137.96266666666662" x2="121.0" y2="137.96266666666662" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="139.8826666666666" x2="121.0" y2="139.8826666666666" stroke="#555" stroke-width="0.22"/>
+        <line x1="84.8" y1="141.8026666666666" x2="121.0" y2="141.8026666666666" stroke="#555" stroke-width="0.22"/>
+      </g>
+      <text x="48" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Blea Wyke Sst</text>
+      <text x="66" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁b</text>
+      <polygon points="125.5,106.66666666666669 129.5,106.66666666666669 129.5,141.94444444444446 125.5,141.94444444444446" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粉砂</text>
+      <text x="147" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">25.0</text>
+      <text x="157" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Silty mudstone with siderite nodules</text>
+      <text x="123.0" y="124.30555555555557" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">182</text>
+    </g>
+    <line x1="8" y1="141.94444444444446" x2="273" y2="141.94444444444446" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_6" data-cdr-type="layer" data-cdr-name="Fox Cliff Siltstone" data-cdr-pattern="silt" data-cdr-thickness="30" data-cdr-color="#d8cda2" data-cdr-index="6">
+      <rect x="84.3" y="64.33333333333334" width="37.2" height="42.333333333333336" fill="#d8cda2" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <g clip-path="url(#clip_6)">
+        <line x1="85.3" y1="65.93333333333334" x2="120.5" y2="65.93333333333334" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="69.13333333333334" x2="120.5" y2="69.13333333333334" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="72.33333333333334" x2="120.5" y2="72.33333333333334" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="75.53333333333335" x2="120.5" y2="75.53333333333335" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="78.73333333333335" x2="120.5" y2="78.73333333333335" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="81.93333333333335" x2="120.5" y2="81.93333333333335" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="85.13333333333335" x2="120.5" y2="85.13333333333335" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="88.33333333333336" x2="120.5" y2="88.33333333333336" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="91.53333333333336" x2="120.5" y2="91.53333333333336" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="94.73333333333336" x2="120.5" y2="94.73333333333336" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="97.93333333333337" x2="120.5" y2="97.93333333333337" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="101.13333333333337" x2="120.5" y2="101.13333333333337" stroke="#aaa" stroke-width="0.2"/>
+        <line x1="85.3" y1="104.33333333333337" x2="120.5" y2="104.33333333333337" stroke="#aaa" stroke-width="0.2"/>
+        <circle cx="87.5" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="87.5" cy="105.93333333333338" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="93.9" cy="105.93333333333338" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="100.30000000000001" cy="105.93333333333338" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="106.70000000000002" cy="105.93333333333338" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="113.10000000000002" cy="105.93333333333338" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="67.53333333333335" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="73.93333333333335" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="80.33333333333336" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="86.73333333333336" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="93.13333333333337" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="99.53333333333337" r="0.2" fill="#888"/>
+        <circle cx="119.50000000000003" cy="105.93333333333338" r="0.2" fill="#888"/>
+      </g>
+      <text x="48" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Fox Cliff Siltstone</text>
+      <text x="66" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁f</text>
+      <text x="80.5" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="3.0" font-weight="normal" text-anchor="middle" fill="#666" data-cdr-type="fossil-icon" data-cdr-fossil="ammonite">🐚</text>
+      <polygon points="125.5,64.33333333333334 131.5,64.33333333333334 131.5,106.66666666666669 125.5,106.66666666666669" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">细砂</text>
+      <text x="147" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">30.0</text>
+      <text x="157" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Siltstone, thin sandstone beds, recovery phase</text>
+      <text x="123.0" y="85.50000000000001" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">181.5</text>
+    </g>
+    <line x1="8" y1="106.66666666666669" x2="273" y2="106.66666666666669" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <g id="layer_7" data-cdr-type="layer" data-cdr-name="Fox Cliff Siltstone" data-cdr-pattern="marl" data-cdr-thickness="30" data-cdr-color="#bfbfb5" data-cdr-index="7">
+      <rect x="84.3" y="22.000000000000007" width="37.2" height="42.333333333333336" fill="#bfbfb5" stroke="#555" stroke-width="0.15" data-cdr-type="lithology-rect"/>
+      <text x="48" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="formation-text">Fox Cliff Siltstone</text>
+      <text x="66" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="bold" text-anchor="start" fill="#333" data-cdr-type="symbol-text">J₁f</text>
+      <polygon points="125.5,22.000000000000007 129.5,22.000000000000007 129.5,64.33333333333334 125.5,64.33333333333334" fill="#aaa" opacity="0.5" data-cdr-type="grain-triangle"/>
+      <text x="131.5" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="grain-label">粉砂</text>
+      <text x="147" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="2.6" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="thickness-text">30.0</text>
+      <text x="157" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="description-text">Grey mudstone with thin limestone, post-OAE</text>
+      <text x="123.0" y="43.16666666666667" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="start" fill="#e67e22" data-cdr-type="age-ma">181</text>
+    </g>
+    <line x1="8" y1="64.33333333333334" x2="273" y2="64.33333333333334" stroke="#bbb" stroke-width="0.12" data-cdr-type="row-separator"/>
+    <line x1="8" y1="276" x2="273" y2="276" stroke="#000" stroke-width="0.35" data-cdr-type="erathem-boundary"/>
+    <line x1="21" y1="276" x2="273" y2="276" stroke="#555" stroke-width="0.22" data-cdr-type="system-boundary"/>
+    <rect x="223" y="22" width="18" height="268" fill="#fafafa" stroke="#ddd" stroke-width="0.15" data-cdr-type="curve-bg"/>
+    <line x1="223" y1="276.0" x2="241" y2="276.0" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="223" y1="205.44444444444446" x2="241" y2="205.44444444444446" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="223" y1="134.88888888888889" x2="241" y2="134.88888888888889" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="223" y1="64.33333333333331" x2="241" y2="64.33333333333331" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="232.0" y1="276" x2="232.0" y2="22" stroke="#ddd" stroke-width="0.1" data-cdr-type="curve-vgrid"/>
+    <text x="232.0" y="273" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="curve-label">δ¹³Corg</text>
+    <text x="232.0" y="275.5" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="curve-unit">‰</text>
+    <path d="M 236.7,276.0 L 238.3,240.7 L 236.7,205.4 L 233.6,170.2 L 230.4,141.9 L 228.8,120.8 L 227.3,99.6 L 225.7,85.5 L 228.8,71.4 L 232.0,50.2 L 233.6,22.0 L 235.1,22.0 L 236.7,22.0" fill="none" stroke="#2980b9" stroke-width="0.3" stroke-linejoin="round" data-cdr-type="curve-line" data-cdr-name="δ¹³Corg"/>
+    <text x="224" y="279" font-family="SimHei, Heiti SC, sans-serif" font-size="1.6" font-weight="normal" text-anchor="start" fill="#999" data-cdr-type="curve-range">-27</text>
+    <text x="224" y="21" font-family="SimHei, Heiti SC, sans-serif" font-size="1.6" font-weight="normal" text-anchor="start" fill="#999" data-cdr-type="curve-range">-35</text>
+    <rect x="244" y="22" width="18" height="268" fill="#fafafa" stroke="#ddd" stroke-width="0.15" data-cdr-type="curve-bg"/>
+    <line x1="244" y1="276.0" x2="262" y2="276.0" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="244" y1="205.44444444444446" x2="262" y2="205.44444444444446" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="244" y1="134.88888888888889" x2="262" y2="134.88888888888889" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="244" y1="64.33333333333331" x2="262" y2="64.33333333333331" stroke="#eee" stroke-width="0.08" data-cdr-type="curve-grid"/>
+    <line x1="253.0" y1="276" x2="253.0" y2="22" stroke="#ddd" stroke-width="0.1" data-cdr-type="curve-vgrid"/>
+    <text x="253.0" y="273" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle" fill="#333" data-cdr-type="curve-label">δ¹¹B (‰)</text>
+    <text x="253.0" y="275.5" font-family="SimHei, Heiti SC, sans-serif" font-size="1.8" font-weight="normal" text-anchor="middle" fill="#999" data-cdr-type="curve-unit">‰</text>
+    <path d="M 246.7,276.0 L 248.1,240.7 L 249.5,205.4 L 252.3,170.2 L 256.5,141.9 L 257.9,120.8 L 259.3,99.6 L 257.9,85.5 L 255.1,71.4 L 252.3,50.2 L 249.5,22.0 L 248.1,22.0 L 246.7,22.0" fill="none" stroke="#c0392b" stroke-width="0.3" stroke-linejoin="round" data-cdr-type="curve-line" data-cdr-name="δ¹¹B (‰)"/>
+    <text x="245" y="279" font-family="SimHei, Heiti SC, sans-serif" font-size="1.6" font-weight="normal" text-anchor="start" fill="#999" data-cdr-type="curve-range">16</text>
+    <text x="245" y="21" font-family="SimHei, Heiti SC, sans-serif" font-size="1.6" font-weight="normal" text-anchor="start" fill="#999" data-cdr-type="curve-range">12</text>
+  </g>
+  <g id="cdr-outlines" inkscape:groupmode="layer" inkscape:label="Outlines" data-cdr-layer="outlines">
+    <line x1="8" y1="22" x2="273" y2="22" stroke="#333" stroke-width="0.15" data-cdr-type="table-bottom"/>
+    <line x1="8" y1="22" x2="8" y2="290" stroke="#333" stroke-width="0.15" data-cdr-type="table-left"/>
+    <line x1="273" y1="22" x2="273" y2="290" stroke="#333" stroke-width="0.15" data-cdr-type="table-right"/>
+    <line x1="8" y1="290" x2="273" y2="290" stroke="#333" stroke-width="0.15" data-cdr-type="table-top"/>
+  </g>
+  <g id="cdr-footer" inkscape:groupmode="layer" inkscape:label="Footer" data-cdr-layer="footer">
+    <text x="8" y="17" font-family="SimHei, Heiti SC, sans-serif" font-size="2.2" font-weight="normal" text-anchor="start" fill="#666" data-cdr-type="footer-text">Toarcian Oceanic Anoxic Event (T-OAE), Yorkshire  |  总厚 180m  |  8 层  |  比例尺 1:708</text>
+    <text x="8" y="14" font-family="SimHei, Heiti SC, sans-serif" font-size="1.7000000000000002" font-weight="normal" text-anchor="start" fill="#999" data-cdr-type="footer-citation">Generated with CorelDRAWer-Skill (github.com/Reasonite-lab/CorelDRAWer-Skill)</text>
+  </g>
+  <g id="cdr-legend" inkscape:groupmode="layer" inkscape:label="Legend" data-cdr-layer="legend">
+    <rect x="277" y="224.0" width="38" height="52.0" fill="#fff" stroke="#666" stroke-width="0.25" data-cdr-type="legend-box"/>
+    <text x="296.0" y="229.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2.5" font-weight="bold" text-anchor="middle" fill="#000" data-cdr-type="legend-title">图  例</text>
+    <line x1="280" y1="232.0" x2="312" y2="232.0" stroke="#ccc" stroke-width="0.15" data-cdr-type="legend-separator"/>
+    <rect x="281" y="230.5" width="6" height="6" fill="#ccccc1" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <g clip-path="url(#lgclip_0)">
+      <line x1="281.5" y1="231.076" x2="286.5" y2="231.076" stroke="#555" stroke-width="0.22"/>
+      <line x1="281.5" y1="232.99599999999998" x2="286.5" y2="232.99599999999998" stroke="#555" stroke-width="0.22"/>
+      <line x1="281.5" y1="234.91599999999997" x2="286.5" y2="234.91599999999997" stroke="#555" stroke-width="0.22"/>
+    </g>
+    <text x="290" y="233.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Whitby Mudstone</text>
+    <rect x="281" y="237.5" width="6" height="6" fill="#999991" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <g clip-path="url(#lgclip_1)">
+      <line x1="281.3" y1="238.172" x2="286.7" y2="238.172" stroke="#555" stroke-width="0.22"/>
+      <line x1="282.792" y1="237.5" x2="282.792" y2="238.844" stroke="#999" stroke-width="0.15"/>
+      <line x1="286.152" y1="237.5" x2="286.152" y2="238.844" stroke="#999" stroke-width="0.15"/>
+      <line x1="281.3" y1="240.412" x2="286.7" y2="240.412" stroke="#555" stroke-width="0.22"/>
+      <line x1="282.792" y1="239.74" x2="282.792" y2="241.084" stroke="#999" stroke-width="0.15"/>
+      <line x1="286.152" y1="239.74" x2="286.152" y2="241.084" stroke="#999" stroke-width="0.15"/>
+      <line x1="281.3" y1="242.65200000000002" x2="286.7" y2="242.65200000000002" stroke="#555" stroke-width="0.22"/>
+    </g>
+    <text x="290" y="240.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Whitby Mudstone</text>
+    <rect x="281" y="244.5" width="6" height="6" fill="#323230" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <g clip-path="url(#lgclip_2)">
+      <line x1="281.3" y1="245.172" x2="286.7" y2="245.172" stroke="#eee" stroke-width="0.18"/>
+      <line x1="281.3" y1="247.412" x2="286.7" y2="247.412" stroke="#eee" stroke-width="0.18"/>
+      <line x1="281.3" y1="249.65200000000002" x2="286.7" y2="249.65200000000002" stroke="#eee" stroke-width="0.18"/>
+    </g>
+    <text x="290" y="247.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Jet Rock</text>
+    <rect x="281" y="251.5" width="6" height="6" fill="#e5dab7" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <g clip-path="url(#lgclip_3)">
+      <circle cx="282.12" cy="252.62" r="0.35" fill="#555"/>
+      <circle cx="282.12" cy="254.86" r="0.35" fill="#555"/>
+      <circle cx="282.12" cy="257.1" r="0.35" fill="#555"/>
+      <circle cx="284.36" cy="252.62" r="0.35" fill="#555"/>
+      <circle cx="284.36" cy="254.86" r="0.35" fill="#555"/>
+      <circle cx="284.36" cy="257.1" r="0.35" fill="#555"/>
+      <circle cx="286.6" cy="252.62" r="0.35" fill="#555"/>
+      <circle cx="286.6" cy="254.86" r="0.35" fill="#555"/>
+      <circle cx="286.6" cy="257.1" r="0.35" fill="#555"/>
+    </g>
+    <text x="290" y="254.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Blea Wyke Sst</text>
+    <rect x="281" y="258.5" width="6" height="6" fill="#d8cda2" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <g clip-path="url(#lgclip_4)">
+      <line x1="282" y1="260.1" x2="286" y2="260.1" stroke="#aaa" stroke-width="0.2"/>
+      <line x1="282" y1="263.3" x2="286" y2="263.3" stroke="#aaa" stroke-width="0.2"/>
+      <circle cx="284.2" cy="261.7" r="0.2" fill="#888"/>
+    </g>
+    <text x="290" y="261.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Fox Cliff Siltstone</text>
+    <rect x="281" y="265.5" width="6" height="6" fill="#bfbfb5" stroke="#888" stroke-width="0.12" data-cdr-type="legend-swatch"/>
+    <text x="290" y="268.5" font-family="SimHei, Heiti SC, sans-serif" font-size="2" font-weight="normal" text-anchor="start" fill="#333" data-cdr-type="legend-label">Fox Cliff Siltstone</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "title": "Cryogenian Snowball Earth, Adelaide Rift Complex",
+  "location": "South Australia (ref. s43247-024-01630, s43247-023-00899)",
+  "curves": [
+    {"name": "δ¹³C (‰)", "color": "#2980b9", "unit": "‰", "data": [
+      [0, 4], [80, 2], [160, -2], [240, -5], [300, -6], [340, -5], [380, -3], [420, 0], [480, 3], [540, 5], [600, 4]
+    ]}
+  ],
+  "layers": [
+    {"formation":"Trezona Fm","symbol":"Nh₃t","thick":80,"descr":"Red-brown silty dolomite, stromatolitic — pre-Sturtian cap","c":0,"m":10,"y":20,"k":15,"pattern":"dolo","grain":2,"fossils":["stromatolite"],"age_ma":720},
+    {"formation":"Wilyerpa Fm","symbol":"Nh₃w","thick":160,"descr":"Diamictite, dropstones, glacial striated clasts — Sturtian glaciation","c":10,"m":5,"y":15,"k":45,"pattern":"conglo","grain":6,"age_ma":716},
+    {"formation":"Enorama Shale","symbol":"Nh₃e","thick":80,"descr":"Black shale, Mn-carbonate layers — post-Sturtian cap","c":5,"m":0,"y":10,"k":50,"pattern":"shale","grain":1,"fossils":["algae"],"age_ma":710},
+    {"formation":"Etina Fm","symbol":"Nh₃et","thick":120,"descr":"Interbedded sandstone, siltstone — interglacial","c":0,"m":15,"y":25,"k":10,"pattern":"sand","grain":3,"fossils":["stromatolite"],"age_ma":700},
+    {"formation":"Yaltipena Fm","symbol":"Nh₃y","thick":80,"descr":"Dolomitic siltstone, microbial mats","c":0,"m":5,"y":15,"k":20,"pattern":"silt","grain":2,"age_ma":690},
+    {"formation":"Elatina Fm","symbol":"Nh₃el","thick":80,"descr":"Diamictite, iron formation — Marinoan glaciation","c":0,"m":10,"y":5,"k":60,"pattern":"conglo","grain":6,"age_ma":650},
+    {"formation":"Nuccaleena Fm","symbol":"Nh₃n","thick":20,"descr":"Cap dolostone, tepee structures — post-Marinoan cap","c":0,"m":0,"y":10,"k":5,"pattern":"dolo","grain":2,"contact":"unconformity","age_ma":635}
+  ]
+}

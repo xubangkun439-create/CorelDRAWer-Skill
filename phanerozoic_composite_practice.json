@@ -1,0 +1,20 @@
+{
+  "title": "Phanerozoic composite — major geological events",
+  "location": "Compiled from multiple Nature papers",
+  "layers": [
+    {"system":"Cambrian","series":"Fortunian","formation":"Ediacaran-Cambrian boundary","symbol":"∈₁","thick":25,"descr":"Small shelly fossils, Cambrian explosion","c":0,"m":0,"y":5,"k":25,"pattern":"lime","grain":2,"fossils":["trilobite"],"age_ma":541},
+    {"system":"Ordovician","series":"Lower","formation":"Tremadocian","symbol":"O₁","thick":30,"descr":"Marine transgression, graptolite shales","c":5,"m":0,"y":10,"k":35,"pattern":"shale","grain":1,"fossils":["graptolite"],"age_ma":485},
+    {"system":"Silurian","series":"Wenlock","formation":"Wenlock Limestone","symbol":"S₂w","thick":20,"descr":"Coral-stromatoporoid reef limestone","c":0,"m":0,"y":0,"k":15,"pattern":"lime","grain":3,"fossils":["coral","crinoid"],"age_ma":433},
+    {"system":"Devonian","series":"Upper","formation":"Kellwasser horizon","symbol":"D₃k","thick":15,"descr":"Black shale, Frasnian-Famennian mass extinction","c":0,"m":0,"y":5,"k":75,"pattern":"carbShale","grain":1,"fossils":["brachiopod"],"contact":"conformity","age_ma":372},
+    {"system":"Devonian","series":"Upper","formation":"Famennian","symbol":"D₃f","thick":25,"descr":"Nodular limestone, recovery fauna","c":0,"m":0,"y":5,"k":20,"pattern":"lime","grain":2,"age_ma":370},
+    {"system":"Carboniferous","series":"Pennsylvanian","formation":"Coal Measures","symbol":"CPc","thick":40,"descr":"Cyclothems, coal seams, deltaic sandstone","c":0,"m":20,"y":30,"k":30,"pattern":"sand","grain":4,"fossils":["plant"],"structures":["cross_bed"],"age_ma":315},
+    {"system":"Permian","series":"Lopingian","formation":"PTB transition","symbol":"P₃","thick":20,"descr":"Deep-water siliceous shale, volcanic ash layers","c":0,"m":0,"y":0,"k":60,"pattern":"shale","grain":1,"fossils":["ammonite"],"age_ma":254},
+    {"system":"Triassic","series":"Lower","formation":"Induan","symbol":"T₁i","thick":25,"descr":"Calcareous mudstone, microbialite — recovery","c":10,"m":0,"y":20,"k":30,"pattern":"mud","grain":1,"fossils":["bivalve"],"age_ma":251},
+    {"system":"Triassic","series":"Upper","formation":"Rhaetian","symbol":"T₃r","thick":20,"descr":"Shallow marine limestone, megalodontids","c":0,"m":0,"y":0,"k":20,"pattern":"lime","grain":3,"fossils":["bivalve"],"age_ma":205},
+    {"system":"Jurassic","series":"Lower","formation":"Toarcian OAE","symbol":"J₁t","thick":15,"descr":"Black shale, T-OAE, mass extinction","c":0,"m":0,"y":5,"k":80,"pattern":"carbShale","grain":1,"fossils":["ammonite"],"contact":"conformity","age_ma":183},
+    {"system":"Cretaceous","series":"Upper","formation":"Cenomanian-Turonian","symbol":"K₂ct","thick":20,"descr":"OAE2, black shale, δ¹³C excursion","c":0,"m":0,"y":5,"k":70,"pattern":"shale","grain":1,"fossils":["foraminifera"],"age_ma":94},
+    {"system":"Paleogene","series":"Eocene","formation":"PETM interval","symbol":"E₂p","thick":10,"descr":"Carbonate dissolution, negative δ¹³C excursion","c":0,"m":0,"y":10,"k":15,"pattern":"marl","grain":2,"age_ma":56},
+    {"system":"Neogene","series":"Miocene","formation":"Messinian","symbol":"N₁m","thick":20,"descr":"Evaporite, Mediterranean salinity crisis","c":0,"m":0,"y":20,"k":5,"pattern":"dolo","grain":2,"structures":["crack"],"age_ma":5.9},
+    {"system":"Quaternary","series":"Pleistocene","formation":"Recent","symbol":"Qp","thick":10,"descr":"Glacial-interglacial cycles, loess, paleosols","c":10,"m":0,"y":30,"k":20,"pattern":"silt","grain":2,"age_ma":2.58}
+  ]
+}

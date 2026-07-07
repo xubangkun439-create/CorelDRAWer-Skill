@@ -1,0 +1,22 @@
+{
+  "title": "Toarcian Oceanic Anoxic Event (T-OAE), Yorkshire",
+  "location": "UK (ref. s43247-025-02510-y, s41561-022-01115-w)",
+  "curves": [
+    {"name": "δ¹³Corg", "color": "#2980b9", "unit": "‰", "data": [
+      [0, -28], [25, -27], [50, -28], [75, -30], [95, -32], [110, -33], [125, -34], [135, -35], [145, -33], [160, -31], [180, -30], [200, -29], [220, -28]
+    ]},
+    {"name": "δ¹¹B (‰)", "color": "#c0392b", "unit": "‰", "data": [
+      [0, 12], [25, 12.5], [50, 13], [75, 14], [95, 15.5], [110, 16], [125, 16.5], [135, 16], [145, 15], [160, 14], [180, 13], [200, 12.5], [220, 12]
+    ]}
+  ],
+  "layers": [
+    {"formation":"Whitby Mudstone","symbol":"J₁w","thick":25,"descr":"Grey silty mudstone, early Toarcian","c":0,"m":0,"y":5,"k":20,"pattern":"mud","grain":2,"fossils":["ammonite"],"age_ma":184},
+    {"formation":"Whitby Mudstone","symbol":"J₁w","thick":20,"descr":"Dark grey laminated shale, T-OAE precursor","c":0,"m":0,"y":5,"k":40,"pattern":"shale","grain":1,"age_ma":183.5},
+    {"formation":"Jet Rock","symbol":"J₁j","thick":15,"descr":"Black bituminous shale, T-OAE peak, high TOC","c":0,"m":0,"y":5,"k":80,"pattern":"carbShale","grain":1,"fossils":["ammonite","bivalve"],"contact":"conformity","age_ma":183},
+    {"formation":"Jet Rock","symbol":"J₁j","thick":20,"descr":"Dark grey laminated mudstone, fish scales","c":0,"m":0,"y":5,"k":50,"pattern":"shale","grain":1,"fossils":["fish"],"age_ma":182.8},
+    {"formation":"Blea Wyke Sst","symbol":"J₁b","thick":15,"descr":"Fine-grained sandstone, wave ripples","c":0,"m":5,"y":20,"k":10,"pattern":"sand","grain":3,"structures":["ripple"],"age_ma":182.5},
+    {"formation":"Blea Wyke Sst","symbol":"J₁b","thick":25,"descr":"Silty mudstone with siderite nodules","c":5,"m":0,"y":15,"k":20,"pattern":"mud","grain":2,"age_ma":182},
+    {"formation":"Fox Cliff Siltstone","symbol":"J₁f","thick":30,"descr":"Siltstone, thin sandstone beds, recovery phase","c":0,"m":5,"y":25,"k":15,"pattern":"silt","grain":3,"fossils":["ammonite"],"age_ma":181.5},
+    {"formation":"Fox Cliff Siltstone","symbol":"J₁f","thick":30,"descr":"Grey mudstone with thin limestone, post-OAE","c":0,"m":0,"y":5,"k":25,"pattern":"marl","grain":2,"age_ma":181}
+  ]
+}
