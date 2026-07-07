@@ -10,9 +10,14 @@ A Reasonix skill project for generating CorelDRAW-compatible geological diagrams
 
 ## Commands
 
-No build/test commands. The only operation is:
+No build/test commands. The main operations are:
 
 - `/coreldraw-vba` — invoke the drawing skill (or describe your diagram naturally in conversation)
+- `python3 generate_column.py data.json output.svg --style nature` — Nature style strat column
+- `python3 generate_cross_section.py data.json output.svg --style nature` — Nature style cross-section
+- `python3 coreldrawer.py column|xsection data.json out.svg --style nature` — Unified CLI
+- `python3 batch_fetch_nature.py dois.txt` — Batch download + extract Nature figures
+- `python3 nature_figure_hunter.py search "keyword" --extract` — Search Nature papers
 
 ## Output Channels
 
@@ -25,12 +30,22 @@ No build/test commands. The only operation is:
 ## Architecture
 
 ```
-.reasonix/skills/coreldraw-vba/SKILL.md   ← Skill definition (v2.1)
-generate_column.py                         ← SVG generator — stratigraphic columns
-generate_cross_section.py                  ← SVG generator — geological cross-sections
+.reasonix/skills/coreldraw-vba/SKILL.md   ← Skill definition (v2.2)
+generate_column.py                         ← SVG generator — stratigraphic columns (--style nature)
+generate_cross_section.py                  ← SVG generator — geological cross-sections (--style nature)
 cdr_com_auto.py                            ← VBA/COM generator
 data_template.json                         ← Column data format template
 borehole_column.bas                        ← Legacy VBA macro (reference)
+batch_fetch_nature.py                      ← Nature batch PDF download + figure extraction
+nature_journal_dois.txt                    ← Multi-journal Nature DOI list
+nature_strat_template.svg                  ← Nature style column reference template
+nature_xsec_template.svg                   ← Nature style cross-section reference template
+strat_ref_figures/                         ← 107 curated stratigraphic reference images
+├── FIGURES_INDEX.md                       ← Image catalog by geological topic
+├── NATURE_STYLE_ANALYSIS.md              ← Cross-journal style design patterns
+├── README.md
+nature_figures/                            ← 736 extracted JPG figures from 158 Nature papers
+papers/                                    ← 158 Nature paper PDFs (not tracked in git)
 cross_section_demo.svg                     ← Example cross-section output
 output.svg                                 ← Example column output
 AGENTS.md                                  ← This file
