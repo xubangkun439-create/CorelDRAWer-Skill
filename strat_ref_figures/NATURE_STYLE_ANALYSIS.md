@@ -1,15 +1,22 @@
 # Nature Style Analysis — Geological Figure Design Patterns
 
-基于 158 篇 Nature 系列期刊论文的地质图件设计模式分析。
+基于 189 篇 Nature 系列期刊论文的地质图件设计模式分析。
 
 ## 期刊来源
 
 | 期刊 | 论文数 | Source ID | 特点 |
 |------|:------:|:----------|:-----|
 | Communications Earth & Environment | 129 | S4210221880 | 黄金OA，图片丰富，地层图多样 |
+| Nature (主刊) | 15 | S137773608 | 最高影响力，PDF内嵌矢量图，图少精炼 |
 | Nature Geoscience | 14 | S48977010 | 短篇为主，图少但精，多为彩色模式图 |
-| Nature Communications | 8 | S64187185 | 长篇论文，图量丰富(19-22张/篇) |
-| Scientific Reports | 7 | S196734849 | 大规模OA，图片量适中 |
+| Nature Communications | 12 | S64187185 | 长篇论文，图量丰富(19-22张/篇) |
+| Scientific Reports | 19 | S196734849 | 大规模OA，图片量适中 |
+
+## 注意事项
+
+- **Nature (主刊)** 的 PDF 使用特殊内嵌格式，图像直接提取困难（0 图/篇）
+  - 建议直接访问 nature.com 文章页查看 HTML 版图片
+  - 其图表风格为极简主义：极细线 (0.25pt)、黑白灰为主、彩色仅用于数据点
 
 ## 学习总结
 
